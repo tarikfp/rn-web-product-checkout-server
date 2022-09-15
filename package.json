@@ -1,0 +1,16 @@
+{
+  "name": "basketnodeserver",
+  "version": "1.1.0",
+  "description": "Server to support shopping basket challenges",
+  "main": "server.js",
+  "dependencies": {
+    "httpdispatcher": "2.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Geektastic",
+  "license": "ISC"
+}
